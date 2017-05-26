@@ -10,7 +10,7 @@ City::City() :Card("Atlanta")
 City::City(string nam) : Card(nam)
 {
 	//myCities.push_back(City("Atlanta", "black"));
-}
+}// hello
 
 
 City::~City()
